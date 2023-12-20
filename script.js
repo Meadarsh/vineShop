@@ -62,6 +62,7 @@ gsap.to("#bottle1",{
     end:"top -5%"
   },
   scale:"0.47",
+  x:-200
 })
 
 gsap.from("#page4img",{
